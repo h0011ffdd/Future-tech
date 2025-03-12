@@ -1,4 +1,4 @@
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 450px) {
          .header-button-container ul,.header-button{display:none;}
          header .fa-bars{display:block;
                          padding-right:30px;
